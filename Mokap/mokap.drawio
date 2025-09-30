@@ -1,0 +1,311 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/28.1.2 Chrome/138.0.7204.243 Electron/37.4.0 Safari/537.36" version="28.1.2" pages="6">
+  <diagram name="Page-1" id="e0MYnFcHt-6Qj0lgORNf">
+    <mxGraphModel dx="773" dy="509" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ZX6CLPqWSpX0F3OJgOG6-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="110" y="60" width="560" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="ZX6CLPqWSpX0F3OJgOG6-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="110" y="60" width="560" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="y3pF0eVRt3emSmZ_yOe2-1" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="620" y="65" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="y3pF0eVRt3emSmZ_yOe2-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="110" width="130" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="y3pF0eVRt3emSmZ_yOe2-3" value="Поиск" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="70" width="230" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="y3pF0eVRt3emSmZ_yOe2-4" value="Создать" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="73.75" width="80" height="27.5" as="geometry" />
+        </mxCell>
+        <mxCell id="y3pF0eVRt3emSmZ_yOe2-5" value="2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="70" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="y3pF0eVRt3emSmZ_yOe2-6" value="Главная страница" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="120" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="y3pF0eVRt3emSmZ_yOe2-7" value="Сообщества" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="170" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="y3pF0eVRt3emSmZ_yOe2-8" value="Популярное" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="220" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="y3pF0eVRt3emSmZ_yOe2-9" value="Мои сообщества" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="270" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="y3pF0eVRt3emSmZ_yOe2-11" value="О нас" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="320" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="y3pF0eVRt3emSmZ_yOe2-12" value="3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="110" width="130" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="y3pF0eVRt3emSmZ_yOe2-13" value="4" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="130" width="260" height="250" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="NWCHLNRzLj_1bnwyqaiW" name="Page-2">
+    <mxGraphModel dx="773" dy="509" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="bFucgCVepip4aMAcb8YC-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="290" width="560" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="bFucgCVepip4aMAcb8YC-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="290" width="560" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="bFucgCVepip4aMAcb8YC-3" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="870" y="295" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bFucgCVepip4aMAcb8YC-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="340" width="130" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="bFucgCVepip4aMAcb8YC-5" value="Поиск" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="300" width="230" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="bFucgCVepip4aMAcb8YC-6" value="Создать" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="303.75" width="80" height="27.5" as="geometry" />
+        </mxCell>
+        <mxCell id="bFucgCVepip4aMAcb8YC-7" value="2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="830" y="300" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bFucgCVepip4aMAcb8YC-8" value="Главная страница" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="350" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bFucgCVepip4aMAcb8YC-9" value="Сообщества" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="400" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bFucgCVepip4aMAcb8YC-10" value="Популярное" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="450" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bFucgCVepip4aMAcb8YC-11" value="Мои сообщества" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="500" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bFucgCVepip4aMAcb8YC-12" value="О нас" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="550" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bFucgCVepip4aMAcb8YC-14" value="4" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="360" width="390" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bFucgCVepip4aMAcb8YC-15" value="3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="420" width="390" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="bFucgCVepip4aMAcb8YC-16" value="3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="520" width="390" height="90" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="BZSERmSgAqN5rHguK0B8" name="Page-3">
+    <mxGraphModel dx="773" dy="509" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="i_1XPkxIOw22D7MRAvGN-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="480" width="560" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="i_1XPkxIOw22D7MRAvGN-16" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="480" width="560" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="i_1XPkxIOw22D7MRAvGN-17" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="670" y="485" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="i_1XPkxIOw22D7MRAvGN-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="530" width="130" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="i_1XPkxIOw22D7MRAvGN-19" value="Поиск" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="490" width="230" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="i_1XPkxIOw22D7MRAvGN-20" value="Создать" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="493.75" width="80" height="27.5" as="geometry" />
+        </mxCell>
+        <mxCell id="i_1XPkxIOw22D7MRAvGN-21" value="2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="490" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="i_1XPkxIOw22D7MRAvGN-22" value="Главная страница" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="540" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="i_1XPkxIOw22D7MRAvGN-23" value="Сообщества" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="590" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="i_1XPkxIOw22D7MRAvGN-24" value="Популярное" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="640" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="i_1XPkxIOw22D7MRAvGN-25" value="Мои сообщества" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="690" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="i_1XPkxIOw22D7MRAvGN-26" value="О нас" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="740" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="i_1XPkxIOw22D7MRAvGN-27" value="3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="530" width="130" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="i_1XPkxIOw22D7MRAvGN-28" value="4" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="550" width="260" height="250" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="XtnRNKIjFdxOFxpNJYw7" name="Page-4">
+    <mxGraphModel dx="773" dy="509" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="BN9_PsaFhlzmpP7xtJIV-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="250" width="560" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="BN9_PsaFhlzmpP7xtJIV-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="250" width="560" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="BN9_PsaFhlzmpP7xtJIV-3" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="600" y="255" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BN9_PsaFhlzmpP7xtJIV-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="300" width="130" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="BN9_PsaFhlzmpP7xtJIV-5" value="Поиск" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="260" width="230" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="BN9_PsaFhlzmpP7xtJIV-6" value="Создать" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="263.75" width="80" height="27.5" as="geometry" />
+        </mxCell>
+        <mxCell id="BN9_PsaFhlzmpP7xtJIV-7" value="2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="260" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BN9_PsaFhlzmpP7xtJIV-8" value="Главная страница" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="310" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BN9_PsaFhlzmpP7xtJIV-9" value="Сообщества" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="360" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BN9_PsaFhlzmpP7xtJIV-10" value="Популярное" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="410" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BN9_PsaFhlzmpP7xtJIV-11" value="Мои сообщества" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="460" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BN9_PsaFhlzmpP7xtJIV-12" value="О нас" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="510" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BN9_PsaFhlzmpP7xtJIV-15" value="3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="320" width="390" height="260" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="QbZELcqwffOt9-coY2lA" name="Page-5">
+    <mxGraphModel dx="753" dy="509" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="aIlIHyeX6vSG7lOtortB-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="145" y="310" width="560" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="aIlIHyeX6vSG7lOtortB-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="145" y="310" width="560" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="aIlIHyeX6vSG7lOtortB-3" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="655" y="315" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aIlIHyeX6vSG7lOtortB-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="145" y="360" width="130" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="aIlIHyeX6vSG7lOtortB-5" value="Поиск" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="285" y="320" width="230" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="aIlIHyeX6vSG7lOtortB-6" value="Создать" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="525" y="323.75" width="80" height="27.5" as="geometry" />
+        </mxCell>
+        <mxCell id="aIlIHyeX6vSG7lOtortB-7" value="2" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="615" y="320" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aIlIHyeX6vSG7lOtortB-8" value="Главная страница" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="145" y="370" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aIlIHyeX6vSG7lOtortB-9" value="Сообщества" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="145" y="420" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aIlIHyeX6vSG7lOtortB-10" value="Популярное" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="145" y="470" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aIlIHyeX6vSG7lOtortB-11" value="Мои сообщества" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="145" y="520" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aIlIHyeX6vSG7lOtortB-12" value="О нас" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="145" y="570" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aIlIHyeX6vSG7lOtortB-14" value="3" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="295" y="430" width="385" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="aIlIHyeX6vSG7lOtortB-17" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="295" y="380" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aIlIHyeX6vSG7lOtortB-18" value="Ник" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="335" y="385" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="_tZymqm5P7lsLAttGp4o" name="Page-6">
+    <mxGraphModel dx="773" dy="509" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Sa_NneyXq7YTRrCrCDq5-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="180" width="560" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="Sa_NneyXq7YTRrCrCDq5-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="180" width="560" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Sa_NneyXq7YTRrCrCDq5-3" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="590" y="185" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Sa_NneyXq7YTRrCrCDq5-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="230" width="130" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="Sa_NneyXq7YTRrCrCDq5-5" value="Поиск" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="190" width="230" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="Sa_NneyXq7YTRrCrCDq5-6" value="Создать" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="193.75" width="80" height="27.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Sa_NneyXq7YTRrCrCDq5-7" value="2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="190" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Sa_NneyXq7YTRrCrCDq5-8" value="Главная страница" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="240" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Sa_NneyXq7YTRrCrCDq5-9" value="Сообщества" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="290" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Sa_NneyXq7YTRrCrCDq5-10" value="Популярное" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="340" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Sa_NneyXq7YTRrCrCDq5-11" value="Мои сообщества" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="390" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Sa_NneyXq7YTRrCrCDq5-12" value="О нас" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="440" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Sa_NneyXq7YTRrCrCDq5-13" value="3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="230" width="130" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="Sa_NneyXq7YTRrCrCDq5-14" value="4" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="280" width="260" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="Sa_NneyXq7YTRrCrCDq5-15" value="Название сообщества" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="240" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Sa_NneyXq7YTRrCrCDq5-16" value="5" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="230" y="235" width="40" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
